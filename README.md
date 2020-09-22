@@ -144,4 +144,4 @@ https://github.com/naver/d2codingfont 다운로드
   $ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
   ```
 - IDE에도 반영
-Preferences(cmd+,)에서 Tools -> Terminal에 가신 후 Shell path를 `/bin/zsh`로 수정
+`Preferences`에서 `Tools` -> `Terminal`에 간 후 Shell path를 `/bin/zsh`로 수정
