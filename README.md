@@ -88,6 +88,16 @@ https://github.com/naver/d2codingfont 다운로드
 `Preference` -> `Profile` -> `Text` -> `Font`에서 D2Coding 선택
 
 ##### 추가 작업
+- Fuck 설치
+  - .zshrc 열기
+  ```sh
+  $ vi ~/.zshrc
+  ```
+  - .zshrc에 thefuck 추가
+  ```
+  eval $(thefuck --alias)
+  ```
+
 - 터미널 출력 변경
   - .zshrc 열기
   ```sh
