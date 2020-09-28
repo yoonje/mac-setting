@@ -81,15 +81,13 @@ plugins=(
 )
 ```
 
-## D2Coding 폰트
-
-##### 설치
+##### D2Coding 폰트 설치
 https://github.com/naver/d2codingfont 다운로드
 
 ##### 설정
 `Preference` -> `Profile` -> `Text` -> `Font`에서 D2Coding 선택
 
-## 추가 작업
+##### 추가 작업
 - 터미널 출력 변경
   - .zshrc 열기
   ```sh
@@ -145,3 +143,13 @@ https://github.com/naver/d2codingfont 다운로드
   ```
 - IDE에도 반영
 `Preferences`에서 `Tools` -> `Terminal`에 간 후 Shell path를 `/bin/zsh`로 수정
+
+## 유틸리티
+- Yoink
+- Magnet
+- i Stat
+- App Cleaner & Uninstaller
+- HW Viewer
+- Office
+- Parallels
+- Alfred
