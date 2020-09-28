@@ -144,7 +144,15 @@ https://github.com/naver/d2codingfont 다운로드
 - IDE에도 반영
 `Preferences`에서 `Tools` -> `Terminal`에 간 후 Shell path를 `/bin/zsh`로 수정
 
+## 개발환경
+- VS CODE
+- Pycharm
+- Postman
+- IntelliJ
+- Jetbrain Toolbox
+
 ## 유틸리티
+- KakaoTalk
 - Yoink
 - Magnet
 - i Stat
