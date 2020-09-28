@@ -151,11 +151,13 @@ https://github.com/naver/d2codingfont 다운로드
 - IntelliJ
 - Jetbrain Toolbox
 
-## 유료 유틸리티
+## 무료 유틸리티
 - KakaoTalk
 - Yoink
 - HW Viewer
 - Office 365
+- Keka
+- IINA
 
 ## 유료 유틸리티
 - Magnet
