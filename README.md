@@ -156,18 +156,17 @@ https://github.com/naver/d2codingfont 다운로드
 
 ## 개발환경
 - VS CODE
-- Pycharm
 - Postman
-- IntelliJ
-- Jetbrain Toolbox
+- Jetbrain Toolbox / Pycharm
+- Jetbrain Toolbox / IntelliJ
 
 ## 무료 유틸리티
-- KakaoTalk
-- Yoink
-- HW Viewer
-- Office 365
-- Keka
-- IINA
+- KakaoTalk (app store)
+- Yoink (web)
+- HW Viewer (app store)
+- MS Office 365
+- Keka (web)
+- IINA (web)
 
 ## 유료 유틸리티
 - Magnet
