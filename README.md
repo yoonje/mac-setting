@@ -88,7 +88,7 @@ https://github.com/naver/d2codingfont 다운로드
 `Preference` -> `Profile` -> `Text` -> `Font`에서 D2Coding 선택
 
 ##### Snazzy 컬러 설치
- 다운로드
+https://github.com/yoonje/mac-setting/blob/master/Snazzy.itermcolors 다운로드
 
 ##### 설정
 `Preference` -> `Profile` -> `Colors` -> `Color presets`에서 Snazzy.itermcolors import하고 설정
