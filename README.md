@@ -155,14 +155,27 @@ eval $(thefuck --alias)
   ```sh
   $ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
   ```
-- IDE에도 반영
-`Preferences`에서 `Tools` -> `Terminal`에 간 후 Shell path를 `/bin/zsh`로 수정
+
+## Finder
+
+##### 설정
+`환경설정` -> `사이드바` -> User 이름 체크
+
+## JetBrains 계열 IDE 설정 - PyCharm / IntelliJ
+
+##### 폰트 설치
+https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드
+
+##### setting 파일 import
+- 폰트 설정 / zsh / 깃 툴박스 플러그인 / CheckStyle-IDEA 플러그인 등등이 설정되어 있음
 
 ## 개발환경
 - VS CODE
 - Postman
 - Jetbrain Toolbox / Pycharm
 - Jetbrain Toolbox / IntelliJ
+- Docker Desktop
+- MySQL workbench
 
 ## 무료 유틸리티
 - KakaoTalk (app store)
