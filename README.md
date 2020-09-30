@@ -172,7 +172,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 ## 개발환경
 - VS CODE
 - Postman
-- Jetbrain Toolbox / Pycharm
+- Jetbrain Toolbox / PyCharm
 - Jetbrain Toolbox / IntelliJ
 - Docker Desktop
 - MySQL workbench
