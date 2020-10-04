@@ -167,6 +167,8 @@ eval $(thefuck --alias)
 https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드
 
 ##### setting 파일 import
+- https://github.com/yoonje/mac-setting/blob/master/settings_java.zip
+- https://github.com/yoonje/mac-setting/blob/master/settings_py.zip
 - 폰트 설정 / zsh / 깃 툴박스 플러그인 / CheckStyle-IDEA 플러그인 등등이 설정되어 있음
 
 ## 개발환경
