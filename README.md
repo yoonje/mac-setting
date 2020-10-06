@@ -186,6 +186,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - MS Office 365
 - Keka (web)
 - IINA (web)
+- kap (web)
 
 ## 유료 유틸리티
 - Magnet
