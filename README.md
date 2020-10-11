@@ -181,7 +181,6 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 
 ## 무료 유틸리티
 - KakaoTalk (app store)
-- Yoink (web)
 - HW Viewer (app store)
 - MS Office 365
 - Keka (web)
@@ -190,7 +189,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 
 ## 유료 유틸리티
 - Magnet
-- Alfred
+- unclutter
 - i Stat
 - Parallels
 - App Cleaner & Uninstaller
