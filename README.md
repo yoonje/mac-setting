@@ -12,6 +12,18 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 $ brew doctor
 ```
 
+## Node / Yarn
+
+#### Node 설치
+```
+$ brew install node
+```
+
+#### Yarn
+```
+$ brew install yarn
+```
+
 ## Git
 
 ##### Git 설치
