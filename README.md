@@ -168,9 +168,9 @@ eval $(thefuck --alias)
   $ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
   ```
 
-#### 샘플 .zshrc 활용 시에 수정해야할 부분
-- export ZSH="/Users/yoonje/.oh-my-zsh" 계정 정보 수정 필요
-- export PATH="/usr/local/Cellar/node/14.3.0/bin:$PATH" 노드 버전 필요
+#### 샘플 .zshrc 활용 시에 확인해야할 부분
+- export ZSH="/Users/yoonje/.oh-my-zsh" 계정 정보 확인 필요
+- export PATH="/usr/local/Cellar/node/14.3.0/bin:$PATH" 노드 버전 확인 필요
 
 ## Finder
 
