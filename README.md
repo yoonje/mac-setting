@@ -14,12 +14,12 @@ $ brew doctor
 
 ## Node / Yarn
 
-#### Node 설치
+##### Node 설치
 ```
 $ brew install node
 ```
 
-#### Yarn 설치
+##### Yarn 설치
 ```
 $ brew install yarn
 ```
