@@ -123,3 +123,4 @@ export PATH="/usr/local/Cellar/node/14.3.0/bin:$PATH"
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 
 function code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $*; }
+export PATH="$(yarn global bin):$PATH"
