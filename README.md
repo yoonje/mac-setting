@@ -19,7 +19,7 @@ $ brew doctor
 $ brew install node
 ```
 
-#### Yarn
+#### Yarn 설치
 ```
 $ brew install yarn
 ```
