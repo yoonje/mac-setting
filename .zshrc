@@ -116,11 +116,11 @@ prompt_context() {
   fi
 }
 
+# Add node npm yarn
 export NODE_PATH="/usr/local/lib/node_modules"
 export PATH="/usr/local/Cellar/node/14.3.0/bin:$PATH"
+export PATH="$(yarn global bin):$PATH"
 
 # Add Visual Studio Code (code)
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
-
 function code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $*; }
-export PATH="$(yarn global bin):$PATH"
