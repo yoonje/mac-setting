@@ -206,6 +206,4 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 ## 유료 유틸리티
 - Magnet
 - unclutter
-- i Stat
-- Parallels
-- App Cleaner & Uninstaller
+- Mate translater
