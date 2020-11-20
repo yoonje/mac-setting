@@ -201,6 +201,10 @@ eval $(thefuck --alias)
   $ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
   ```
 - 보안 옵션
+  - .zshrc 열기
+  ```sh
+  $ vi ~/.zshrc
+  ```
   - 적용
   ```
   ZSH_DISABLE_COMPFIX="true" // source $ZSH/oh-my-zsh.sh 앞에서 
