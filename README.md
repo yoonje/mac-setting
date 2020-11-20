@@ -1,5 +1,34 @@
 # Mac 초기 환경 셋업
 
+## 맥 시스템 설정
+
+##### Finder
+`환경설정` -> `사이드바` -> User 이름 체크
+
+##### Dock
+- Dock은 왼쪽
+- 확대 X 
+- 가리기 O
+
+##### Siri 비활성화
+
+##### 키보드
+- 맞춤법 자동 수정 X
+- 자동으로 문장을 대문자로 시작 X
+- 스페이스를 두 번 눌러 마침표 추가 X
+- Touch Bar 입력 제안 X
+- Fn 키 고정
+- Caps Lock 키로 ABC 입력 소스 전환 해제
+
+##### 캘린더
+구글 계정 선택 -> 구글 캘린더와 연동
+
+## Chrome
+
+##### 북마크 연동
+
+##### 계정 연동
+
 ## Homebrew
 
 ##### Homebrew 설치
@@ -172,24 +201,33 @@ eval $(thefuck --alias)
 - export ZSH="/Users/yoonje/.oh-my-zsh" 계정 정보 확인 필요
 - export PATH="/usr/local/Cellar/node/14.3.0/bin:$PATH" 노드 버전 확인 필요
 
-## Finder
-
-##### 설정
-`환경설정` -> `사이드바` -> User 이름 체크
-
 ## JetBrains 계열 IDE 설정 - PyCharm / IntelliJ
 
-##### 폰트 설치
+##### 폰트 설치 및 설정
 https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드
 
-##### setting 파일 import
-- IntelliJ: https://github.com/yoonje/mac-setting/blob/master/settings_java.zip
-- PyCharm: https://github.com/yoonje/mac-setting/blob/master/settings_py.zip
-- 폰트 설정 / zsh / 깃 툴박스 플러그인 / CheckStyle-IDEA 플러그인 등등이 설정되어 있음
+##### 기타 설정
+- 쉘(zsh)
+- 플러그인 설치
+  - 깃 툴박스
+
+## VS Code IDE 설정
+
+##### 폰트 설정
+
+##### 기타 설정
+- 쉘(zsh)
+- 플러그인 설치
+  - git lens
+  - git history
+  - eslint
+  - prettier
+  - IntelliJ Keymap
 
 ## 개발환경
 - VS CODE
 - Postman
+- Chrome
 - Jetbrain Toolbox / PyCharm
 - Jetbrain Toolbox / IntelliJ
 - Docker Desktop
@@ -202,6 +240,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - Keka (web)
 - IINA (web)
 - kap (web)
+- notion (web)
 
 ## 유료 유틸리티
 - Magnet
