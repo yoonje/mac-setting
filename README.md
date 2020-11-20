@@ -217,7 +217,7 @@ eval $(thefuck --alias)
 
 ## JetBrains 계열 IDE 설정 - PyCharm / IntelliJ
 
-##### 폰트 설치 및 설정
+##### 폰트 설치
 https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드 및 서체 설치
 
 ##### 파일 인코딩
@@ -236,12 +236,18 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 
 ##### 파일에 라이선스 / Author 설정
 
-##### 기타 설정
-- 쉘(zsh)
-- 플러그인 설치
-  - 깃 툴박스
+##### 쉘 설정
+- `Preference` -> `Tools` -> `Terminal`
+  - Application settings: /bin/zsh
+  
+##### 플러그인 설치
+- 깃 툴박스
+- 코틀린
+- 마크 다운
 
 ## VS Code IDE 설정
+
+##### 쉘 설정
 
 ##### 폰트 설정
 
