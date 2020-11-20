@@ -2,6 +2,9 @@
 
 ## 맥 시스템 설정
 
+##### 알림
+웬만하면 다 끄자
+
 ##### Finder
 `환경설정` -> `사이드바` -> User 이름 체크
 
@@ -10,7 +13,8 @@
 - 확대 X 
 - 가리기 O
 
-##### Siri 비활성화
+##### Siri
+비활성화
 
 ##### 키보드
 - 맞춤법 자동 수정 X
@@ -244,9 +248,9 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - MS Office 365
 - Keka (web)
 - IINA (web)
-- Bear (web)
+- Notion (web)
 
 ## 유료 유틸리티
 - Magnet
-- unclutter
+- Unclutter
 - Mate translater
