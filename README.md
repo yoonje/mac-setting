@@ -221,7 +221,8 @@ eval $(thefuck --alias)
 https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드 및 서체 설치
 
 ##### 파일 인코딩
-`Preference` -> `Editor` -> `Code Style` -> `File Encodings` -> 프로퍼티 파일 `Default encoding for properties files`: UTF-8 및 Transparent 옵션 체크
+- `Preference` -> `Editor` -> `Code Style` -> `File Encodings`
+  - 프로퍼티 파일 `Default encoding for properties files`: UTF-8 설정 및 Transparent native-to-ascii convention 옵션 체크
 
 ##### 폰트
 - `Preference` -> `Apperance & Behavior` -> `Apperance`
