@@ -176,7 +176,7 @@ eval $(thefuck --alias)
     prompt_git
     prompt_bzr
     prompt_hg
-    prompt_newline //이부분을 추가 꼭 순서 지켜서
+    prompt_newline // 이 부분을 추가 꼭 순서 지켜서
     prompt_end
   }
   prompt_newline() {
@@ -200,7 +200,13 @@ eval $(thefuck --alias)
   ```sh
   $ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
   ```
-
+- 보안 옵션
+  - 적용
+  ```
+  ZSH_DISABLE_COMPFIX="true" // source $ZSH/oh-my-zsh.sh 앞에서 
+  source $ZSH/oh-my-zsh.sh 
+  ```
+  
 #### 샘플 .zshrc 활용 시에 확인해야할 부분
 - export ZSH="/Users/yoonje/.oh-my-zsh" 계정 정보 확인 필요
 - export PATH="/usr/local/Cellar/node/14.3.0/bin:$PATH" 노드 버전 확인 필요
