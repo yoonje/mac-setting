@@ -206,6 +206,11 @@ eval $(thefuck --alias)
 ##### 폰트 설치 및 설정
 https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드
 
+##### 파일 인코딩
+`Preference` -> `Editor` -> `Code Style` -> `file Encodings` -> 프로퍼티 파일 `Default encoding for properties files`: UTF-8 및 Transparent 옵션 체크
+
+##### 파일에 라이선스 / Author 설정
+
 ##### 기타 설정
 - 쉘(zsh)
 - 플러그인 설치
