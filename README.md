@@ -92,7 +92,7 @@ $ brew cask install iterm2
   ```
   
 ##### D2Coding 폰트 설치
-https://github.com/naver/d2codingfont 다운로드
+https://github.com/naver/d2codingfont 다운로드 및 서체 설치
 
 ##### 폰트 설정
 `Preference` -> `Profile` -> `Text` -> `Font`에서 D2Coding 선택
@@ -204,7 +204,7 @@ eval $(thefuck --alias)
 ## JetBrains 계열 IDE 설정 - PyCharm / IntelliJ
 
 ##### 폰트 설치 및 설정
-https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드
+https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드 및 서체 설치
 
 ##### 파일 인코딩
 `Preference` -> `Editor` -> `Code Style` -> `file Encodings` -> 프로퍼티 파일 `Default encoding for properties files`: UTF-8 및 Transparent 옵션 체크
