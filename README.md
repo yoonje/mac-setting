@@ -30,6 +30,18 @@
 
 ##### 구글 계정 연동
 
+## Unclutter
+
+##### 설정
+- `Unclutter Preferences` ->  `General`
+  - Hold 키 Opt로 설정
+  - Launch Unclutter at startup
+
+## Magnet
+
+##### 설정
+`환경 설정` -> 로그인 시 론칭
+
 ## Chrome
 
 ##### 북마크 연동
