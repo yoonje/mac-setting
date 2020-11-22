@@ -104,7 +104,10 @@ https://github.com/naver/d2codingfont 다운로드 및 서체 설치
 ##### 폰트 설정
 - `Preference` -> `Profile` -> `Text` -> `Font`
   - Font : D2Coding
-  - Size : 13 
+  - Size : 14
+  
+##### 창 크키 설정
+
 
 ##### Snazzy 컬러 설치
 https://github.com/yoonje/mac-setting/blob/master/Snazzy.itermcolors 다운로드
@@ -264,8 +267,12 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 ## VS Code IDE 설정
   
 ##### 쉘 설정
+- `F1` -> `Termianl: Select Default Shell`
+  - /bin/zsh
 
 ##### 폰트 설정
+- `Preference` -> `Setting`
+  - Font Size : 17
 
 ##### 플러그인 설치
 - git lens
