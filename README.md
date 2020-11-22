@@ -99,7 +99,8 @@ $ brew cask install iterm2
 https://github.com/naver/d2codingfont 다운로드 및 서체 설치
 
 ##### 폰트 설정
-`Preference` -> `Profile` -> `Text` -> `Font`에서 D2Coding 선택
+- `Preference` -> `Profile` -> `Text` -> `Font`에서 D2Coding 선택
+- Font Size : 13
 
 ##### Snazzy 컬러 설치
 https://github.com/yoonje/mac-setting/blob/master/Snazzy.itermcolors 다운로드
