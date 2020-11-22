@@ -272,7 +272,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - git history
 - eslint
 - prettier
-- IntelliJ Keymap
+- IntelliJ IDEA Keybindings
 
 ## 개발환경
 - VS CODE
