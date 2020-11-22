@@ -280,6 +280,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - eslint
 - prettier
 - IntelliJ IDEA Keybindings
+- Markdown Preview Enhanced
 
 ## 개발환경
 - VS CODE
