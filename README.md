@@ -35,7 +35,7 @@
 ##### 설정
 - `Unclutter Preferences` ->  `General`
   - Hold 키 Opt로 설정
-  - Launch Unclutter at startup
+  - Launch Unclutter at startup 
 
 ## Magnet
 
