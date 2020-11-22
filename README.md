@@ -211,9 +211,21 @@ eval $(thefuck --alias)
   source $ZSH/oh-my-zsh.sh 
   ```
   
-#### 샘플 .zshrc 활용 시에 확인해야할 부분
-- export ZSH="/Users/yoonje/.oh-my-zsh" 계정 정보 확인 필요
-- export PATH="/usr/local/Cellar/node/14.3.0/bin:$PATH" 노드 버전 확인 필요
+##### 샘플 .zshrc에서 확인해야할 부분
+```sh
+export ZSH="/Users/yoonje/.oh-my-zsh" // 계정 정보 확인 필요
+
+# Add node npm yarn
+export NODE_PATH="/usr/local/lib/node_modules"
+export PATH="/usr/local/Cellar/node/14.3.0/bin:$PATH" // 노드 버전 확인 필요
+export PATH="$(yarn global bin):$PATH"
+
+# Add Visual Studio Code (code)
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+function code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $*; }
+```
+
+##### 샘플 
 
 ## JetBrains 계열 IDE 설정 - PyCharm / IntelliJ
 
@@ -233,7 +245,6 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
   - Font : DejaVu Sans Mono
   - Size : 17
   - Line spacing : 1.2
-  
 
 ##### 파일에 라이선스 / Author 설정
 
@@ -246,19 +257,17 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - CheckStyle-IDEA
 
 ## VS Code IDE 설정
-
+  
 ##### 쉘 설정
 
 ##### 폰트 설정
 
-##### 기타 설정
-- 쉘(zsh)
-- 플러그인 설치
-  - git lens
-  - git history
-  - eslint
-  - prettier
-  - IntelliJ Keymap
+##### 플러그인 설치
+- git lens
+- git history
+- eslint
+- prettier
+- IntelliJ Keymap
 
 ## 개발환경
 - VS CODE
