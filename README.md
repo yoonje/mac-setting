@@ -282,6 +282,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
   - Line spacing : 1.2
 
 ##### 파일에 라이선스 / Author 설정
+Preferences > Settings > Editor > File and Code Templates > Files
 
 ##### 쉘 설정
 - `Preference` -> `Tools` -> `Terminal`
