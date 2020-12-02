@@ -132,8 +132,10 @@ https://github.com/naver/d2codingfont 다운로드 및 서체 설치
   - Size : 14
   
 ##### 창 크키 설정
-
-
+- `Preference` -> `Profile` -> `Window` -> `Setting for New Windows`
+  - Columns: 100
+  - Rows: 30
+  
 ##### Snazzy 컬러 설치
 https://github.com/yoonje/mac-setting/blob/master/Snazzy.itermcolors 다운로드
 
