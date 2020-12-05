@@ -261,8 +261,6 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 function code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $*; }
 ```
 
-##### 샘플 
-
 ## JetBrains 계열 IDE 설정 - PyCharm / IntelliJ
 
 ##### 폰트 설치
