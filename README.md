@@ -98,6 +98,7 @@ $ git config --global user.name "Your Name"
 $ git config --global user.email "you@your-domain.com"
 $ git config --global core.precomposeunicode true
 $ git config --global core.quotepath false
+$ git config --global core.ignorecase false
 ```
 
 ## iTerm2
