@@ -301,6 +301,9 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
   - Size : 17
   - Line spacing : 1.2
 
+##### Auto import Optimize 설정
+- Preferences -> Editor -> Auto import -> Optimize imports on the fly 옵션 체크
+
 ##### 파일에 라이선스 / Author 설정
 - Preferences -> Editor -> File and Code Templates -> Files
 
