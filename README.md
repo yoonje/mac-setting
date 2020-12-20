@@ -264,7 +264,7 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 function code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $*; }
 ```
 
-## JetBrains 계열 IDE 설정 - PyCharm / IntelliJ
+## JetBrains 계열 IDE 설정 - IntelliJ(주) / PyCharm(부)
 
 ##### 폰트 설치
 https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드 및 서체 설치
@@ -272,6 +272,12 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 ##### 파일 인코딩
 - `Preference` -> `Editor` -> `Code Style` -> `File Encodings`
   - 프로퍼티 파일 `Default encoding for properties files`: UTF-8 설정 및 Transparent native-to-ascii convention 옵션 체크
+
+##### 어노테이션 프로세서
+- Preference -> Build, Execution, Deloyment -> Compiler → Enable Annotation Processing 옵션 체크 
+
+##### Doc 설정
+- Preferences > Editor > File and Code Templates > Files
 
 ##### 폰트
 - `Preference` -> `Apperance & Behavior` -> `Apperance`
