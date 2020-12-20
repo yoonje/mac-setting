@@ -120,14 +120,27 @@ $ brew cask install iterm2
 - 단어 단위 이동
   - `Preference` -> `Profile` -> `Keys` 이동 후 숏컷 추가(`+`)
   ```
-  Keyboard Shorcut: ⌘ + ←
+  Send ^[b
+  Keyboard Shorcut: Opt + ←
   Action: Send Escape Sequence
   Esc+: b
   ```
   ```
-  Keyboard Shorcut: ⌘ + →
+  Send ^[f
+  Keyboard Shorcut: Opt + →
   Action: Send Escape Sequence
   Esc+: f
+  ```
+  - `Preference` -> `Profile` -> `Keys` 이동 후 기존 숏컷 수정
+  ```
+  Send Hex Codes: 0x1b 0x1b 0x5b 0x44
+  Keyboard Shorcut: Cmd + ←
+  Action: Send Escape Sequence
+  ```
+  ```
+  Send Hex Codes: 0x1b 0x1b 0x5v 0x43
+  Keyboard Shorcut: Cmd + →
+  Action: Send Escape Sequence
   ```
   
 ##### D2Coding 폰트 설치
