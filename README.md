@@ -274,10 +274,6 @@ export ZSH="/Users/yoonje/.oh-my-zsh" // 계정 정보 확인 필요
 export NODE_PATH="/usr/local/lib/node_modules"
 export PATH="/usr/local/Cellar/node/14.3.0/bin:$PATH" // 노드 버전 확인 필요
 export PATH="$(yarn global bin):$PATH"
-
-# Add Visual Studio Code (code)
-export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
-function code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $*; }
 ```
 
 ## JetBrains 계열 IDE 설정 - IntelliJ(주) / PyCharm(부)
