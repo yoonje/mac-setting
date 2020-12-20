@@ -314,6 +314,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 ##### 플러그인 설치
 - 깃 툴박스
 - CheckStyle-IDEA
+- .ignore
 
 ## VS Code IDE 설정
   
