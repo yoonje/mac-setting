@@ -350,6 +350,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - Keka (web)
 - IINA (web)
 - Notion (web)
+- App cleaner (web)
 
 ## 유료 유틸리티
 - Magnet
