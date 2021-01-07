@@ -53,7 +53,7 @@ Stable 버전의 최신 OS로 업데이트
 
 ##### 설정
 - `Unclutter Preferences` ->  `General`
-  - Hold 키 Opt로 설정
+  - Hold 키 Shift로 설정
   - Launch Unclutter at startup 
 
 ## Magnet
