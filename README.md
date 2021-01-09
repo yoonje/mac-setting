@@ -340,8 +340,9 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - Chrome
 - Jetbrain Toolbox / PyCharm
 - Jetbrain Toolbox / IntelliJ
-- Docker Desktop
-- MySQL workbench
+- Docker/Docker Desktop
+- Nignx / MySQL / Tomcat
+- MySQL Workbench / DBeaver
 
 ## 무료 유틸리티
 - KakaoTalk (app store)
