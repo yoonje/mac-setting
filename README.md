@@ -340,7 +340,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - Chrome
 - Jetbrain Toolbox / PyCharm
 - Jetbrain Toolbox / IntelliJ
-- Docker/Docker Desktop
+- Docker/ Docker Desktop
 - Nignx / MySQL / Tomcat
 - MySQL Workbench / DBeaver
 
