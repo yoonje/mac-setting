@@ -315,6 +315,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - 깃 툴박스
 - CheckStyle-IDEA
 - .ignore
+- Key Promoter X
 
 ## VS Code IDE 설정
   
