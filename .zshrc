@@ -124,3 +124,6 @@ export PATH="$(yarn global bin):$PATH"
 # Add Visual Studio Code (code)
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 function code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $*; }
+
+alias k='kubectl'
+alias d='docker'
