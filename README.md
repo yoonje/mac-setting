@@ -79,17 +79,16 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 $ brew doctor
 ```
 
-## Node / Yarn
+## alt-tab-macos
 
-##### Node 설치
-```
+#### alt-tab-macos 설치
+```sh
 $ brew install node
 ```
 
-##### Yarn 설치
-```
-$ brew install yarn
-```
+##### 설정
+- 설정 -> 조작 -> 단축키 1
+  - opt -> cmd
 
 ## Git
 
