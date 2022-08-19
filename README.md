@@ -28,7 +28,7 @@ Stable 버전의 최신 OS로 업데이트
 - 보기 -> 계층
 
 ##### Dock
-- Dock은 왼쪽
+- Dock은 오른쪽
 - 확대 X 
 - 가리기 O
 
@@ -83,7 +83,7 @@ $ brew doctor
 
 #### alt-tab-macos 설치
 ```sh
-$ brew install node
+$ brew install --cask alt-tab
 ```
 
 ##### 설정
@@ -110,7 +110,7 @@ $ git config --global core.ignorecase false
 
 ##### iTerm2 설치
 ```sh
-$ brew cask install iterm2
+$ brew install --cask iterm2
 ```
 
 ##### iTerm2 설정
@@ -349,7 +349,6 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - HW Viewer (app store)
 - MS Office 365
 - Keka (web)
-- IINA (web)
 - Notion (web)
 - App cleaner (web)
 
