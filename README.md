@@ -258,11 +258,6 @@ eval $(thefuck --alias)
 ##### 샘플 .zshrc에서 확인해야할 부분
 ```sh
 export ZSH="/Users/yoonje/.oh-my-zsh" // 계정 정보 확인 필요
-
-# Add node npm yarn
-export NODE_PATH="/usr/local/lib/node_modules"
-export PATH="/usr/local/Cellar/node/14.3.0/bin:$PATH" // 노드 버전 확인 필요
-export PATH="$(yarn global bin):$PATH"
 ```
 
 ## JetBrains 계열 IDE 설정 - IntelliJ(주) / PyCharm(부)
