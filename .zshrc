@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/yoonje/.oh-my-zsh"
+export ZSH="/Users/user/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -75,12 +75,9 @@ zsh-autosuggestions
 docker
 iterm2
 sudo
-osx
 )
 
 ZSH_DISABLE_COMPFIX="true"
-
-source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
