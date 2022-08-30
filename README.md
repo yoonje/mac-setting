@@ -89,6 +89,7 @@ $ brew install --cask alt-tab
 ##### 설정
 - 설정 -> 조작 -> 단축키 1
   - opt -> cmd
+  - 윈도우가 보일 곳: 모든 앱, 보이는 Space, AltTab이 보여지는 화면
 
 ## Git
 
