@@ -282,7 +282,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
   - Line spacing : 1.2
 
 ##### Auto import Optimize 설정
-- Preferences -> Editor -> Auto import -> Optimize imports on the fly 옵션 체크
+- Preferences -> Editor -> Auto import -> Optimize imports on the fly와 dd unambiguous imports on the fly 옵션 체크
 
 ##### 파일에 라이선스 / Author 설정
 - Preferences -> Editor -> File and Code Templates -> Files
@@ -300,8 +300,6 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - Rainbow Brackets
 - SonarLint
 - Kubernetes
-- iBATIS/MyBatis plugin
-- JPA Buddy
 
 ## VS Code IDE 설정
   
