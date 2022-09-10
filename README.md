@@ -295,7 +295,6 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - Git ToolBox
 - CheckStyle-IDEA
 - .ignore
-- Key Promoter X
 - Indent Rainbow
 - Rainbow Brackets
 - SonarLint
