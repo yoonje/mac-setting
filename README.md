@@ -53,7 +53,6 @@ Stable 버전의 최신 OS로 업데이트
 
 ##### 설정
 - `Unclutter Preferences` ->  `General`
-  - Hold 키 Shift로 설정
   - Launch Unclutter at startup 
 
 ## Magnet
@@ -279,7 +278,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
   - Size : 14 
 - `Preference` -> `Editor` -> `Font`
   - Font : DejaVu Sans Mono
-  - Size : 17
+  - Size : 14.5
   - Line spacing : 1.2
 
 ##### Auto import Optimize 설정
@@ -293,10 +292,16 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
   - Application settings: /bin/zsh
   
 ##### 플러그인 설치
-- 깃 툴박스
+- Git ToolBox
 - CheckStyle-IDEA
 - .ignore
 - Key Promoter X
+- Indent Rainbow
+- Rainbow Brackets
+- SonarLint
+- Kubernetes
+- iBATIS/MyBatis plugin
+- JPA Buddy
 
 ## VS Code IDE 설정
   
@@ -306,7 +311,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 
 ##### 폰트 설정
 - `Preference` -> `Setting`
-  - Font Size : 17
+  - Font Size : 14.5
 
 ##### 플러그인 설치
 - git lens
@@ -320,17 +325,11 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - VS CODE
 - Postman
 - Chrome
-- Jetbrain Toolbox / PyCharm
 - Jetbrain Toolbox / IntelliJ
-- Docker / Docker Desktop
-- Nignx / MySQL / Tomcat
-- MySQL Workbench / DBeaver
 
 ## 무료 유틸리티
 - KakaoTalk (app store)
-- HW Viewer (app store)
 - MS Office 365
-- Keka (web)
 - Notion (web)
 - App cleaner (web)
 
