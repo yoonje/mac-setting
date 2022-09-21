@@ -256,7 +256,7 @@ eval $(thefuck --alias)
 export ZSH="/Users/yoonje/.oh-my-zsh" // 계정 정보 확인 필요
 ```
 
-## JetBrains 계열 IDE 설정 - IntelliJ(주) / PyCharm(부)
+## IntelliJ 
 
 ##### 폰트 설치
 https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드 및 서체 설치
