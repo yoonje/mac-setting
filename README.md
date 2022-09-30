@@ -313,13 +313,17 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 
 ## VS Code IDE 설정
   
+##### Zoom 설정
+- `Setting` -> Zoom Level
+  - `-1
+
 ##### 쉘 설정
 - `F1` -> `Termianl: Select Default Shell`
   - /bin/zsh
 
-##### 폰트 설정
+##### 폰트 크기 설정
 - `Preference` -> `Setting`
-  - Font Size : 11.5
+  - Font Size : 13
 
 ##### 플러그인 설치
 - git lens
