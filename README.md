@@ -6,7 +6,8 @@ Stable 버전의 최신 OS로 업데이트
 ## 맥 시스템 설정
 
 ##### 디스플레이 설정
-핫코너 -> 오른쪽 상단 -> 화면 
+- 핫코너 -> 오른쪽 상단 -> 화면 
+- 주 모니터 1920 1080 (hidpi)
 
 ##### 배터리
 퍼센트 보기
@@ -21,6 +22,9 @@ Stable 버전의 최신 OS로 업데이트
 ##### 알림
 웬만하면 다 끄자
 
+##### Mission Control
+Spaces를 최근  사용 내역에 따라 자동으로 재정렬 체크박스를 해제
+
 ##### Finder
 - `환경설정` -> `사이드바` -> User 이름 체크
 - 보기 -> 사이드바 보기
@@ -28,7 +32,7 @@ Stable 버전의 최신 OS로 업데이트
 - 보기 -> 계층
 
 ##### Dock
-- Dock은 오른쪽
+- Dock은 아래
 - 확대 X 
 - 가리기 O
 
@@ -65,6 +69,8 @@ Stable 버전의 최신 OS로 업데이트
 ##### 북마크 연동
 
 ##### 계정 연동
+
+##### 화면 비율 80%
 
 ## Homebrew
 
@@ -142,7 +148,7 @@ https://github.com/naver/d2codingfont 다운로드 및 서체 설치
 ##### 폰트 설정
 - `Preference` -> `Profile` -> `Text` -> `Font`
   - Font : D2Coding
-  - Size : 14
+  - Size : 11
   
 ##### 창 크키 설정
 - `Preference` -> `Profile` -> `Window` -> `Setting for New Windows`
@@ -280,10 +286,10 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - `Preference` -> `Apperance & Behavior` -> `Apperance`
   - Theme : Dracula 
   - Use custom font : Ubuntu
-  - Size : 14 
+  - Size : 10
 - `Preference` -> `Editor` -> `Font`
   - Font : DejaVu Sans Mono
-  - Size : 14.5
+  - Size : 11.5
   - Line spacing : 1.2
 
 ##### Auto import Optimize 설정
@@ -313,7 +319,7 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 
 ##### 폰트 설정
 - `Preference` -> `Setting`
-  - Font Size : 14.5
+  - Font Size : 11.5
 
 ##### 플러그인 설치
 - git lens
