@@ -289,8 +289,8 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
   - Size : 10
 - `Preference` -> `Editor` -> `Font`
   - Font : DejaVu Sans Mono
-  - Size : 11.5
-  - Line spacing : 1.2
+  - Size : 11
+  - Line spacing : 1.1
 
 ##### Auto import Optimize 설정
 - Preferences -> Editor -> Auto import -> Optimize imports on the fly와 dd unambiguous imports on the fly 옵션 체크
