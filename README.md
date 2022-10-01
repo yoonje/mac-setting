@@ -91,11 +91,6 @@ $ brew doctor
 $ brew install --cask alt-tab
 ```
 
-### Fig 설치
-```sh
-$ brew install --cask fig
-```
-
 ##### 설정
 - 설정 -> 조작 -> 단축키 1
   - opt -> cmd
