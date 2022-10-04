@@ -262,6 +262,18 @@ eval $(thefuck --alias)
 export ZSH="/Users/yoonje/.oh-my-zsh" // 계정 정보 확인 필요
 ```
 
+## 기타
+
+#### tree 설치
+```sh
+$ brew install tree
+```
+
+#### wget 설치
+```sh
+$ brew install wget
+```
+
 ## IntelliJ 
 
 ##### 폰트 설치
