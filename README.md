@@ -279,6 +279,13 @@ $ brew install wget
 ##### 폰트 설치
 https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-Font-DejaVu+Sans+Mono 다운로드 및 서체 설치
 
+##### 프로젝트 경로 숨김
+- idea.properties 열고 아래 설정 추가
+```yml
+project.tree.structure.show.url=false
+ide.tree.horizontal.default.autoscrolling=false
+```
+
 ##### 파일 인코딩
 - `Preference` -> `Editor` -> `Code Style` -> `File Encodings`
   - 프로퍼티 파일 `Default encoding for properties files`: UTF-8 설정 및 Transparent native-to-ascii convention 옵션 체크
