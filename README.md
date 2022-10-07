@@ -293,10 +293,10 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - `Preference` -> `Apperance & Behavior` -> `Apperance`
   - Theme : Dracula 
   - Use custom font : Ubuntu
-  - Size : 12
+  - Size : 13
 - `Preference` -> `Editor` -> `Font`
   - Font : DejaVu Sans Mono
-  - Size : 12.5
+  - Size : 13
   - Line spacing : 1.2
 
 ##### Auto import Optimize 설정
