@@ -7,6 +7,7 @@ Stable 버전의 최신 OS로 업데이트
 
 ##### 디스플레이 설정
 - 핫코너 -> 오른쪽 상단 -> 화면
+- 2560 1440
 
 ##### 배터리
 퍼센트 보기
@@ -69,7 +70,7 @@ Spaces를 최근  사용 내역에 따라 자동으로 재정렬 체크박스를
 
 ##### 계정 연동
 
-##### 화면 비율 90%
+##### 화면 비율 110
 
 ## Homebrew
 
@@ -142,11 +143,11 @@ https://github.com/naver/d2codingfont 다운로드 및 서체 설치
 ##### 폰트 설정
 - `Preference` -> `Profile` -> `Text` -> `Font`
   - Font : D2Coding
-  - Size : 11
+  - Size : 12
   
 ##### 창 크키 설정
 - `Preference` -> `Profile` -> `Window` -> `Setting for New Windows`
-  - Columns: 100
+  - Columns: 90
   - Rows: 30
   
 ##### Snazzy 컬러 설치
@@ -292,11 +293,11 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - `Preference` -> `Apperance & Behavior` -> `Apperance`
   - Theme : Dracula 
   - Use custom font : Ubuntu
-  - Size : 10
+  - Size : 12
 - `Preference` -> `Editor` -> `Font`
   - Font : DejaVu Sans Mono
-  - Size : 11
-  - Line spacing : 1.1
+  - Size : 12.5
+  - Line spacing : 1.2
 
 ##### Auto import Optimize 설정
 - Preferences -> Editor -> Auto import -> Optimize imports on the fly와 dd unambiguous imports on the fly 옵션 체크
@@ -318,10 +319,6 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - Kubernetes
 
 ## VS Code IDE 설정
-  
-##### Zoom 설정
-- `Setting` -> Zoom Level
-  - `-1
 
 ##### 쉘 설정
 - `F1` -> `Termianl: Select Default Shell`
