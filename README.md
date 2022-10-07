@@ -317,6 +317,8 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - Rainbow Brackets
 - SonarLint
 - Kubernetes
+- DTO Generator
+- POJO to JSON
 
 ## VS Code IDE 설정
 
