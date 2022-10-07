@@ -316,9 +316,9 @@ https://ko.cooltext.com/Download-Font-ubuntu / https://ko.cooltext.com/Download-
 - Indent Rainbow
 - Rainbow Brackets
 - SonarLint
-- Kubernetes
 - DTO Generator
 - POJO to JSON
+- Tab Shifter
 
 ## VS Code IDE 설정
 
