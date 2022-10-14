@@ -353,9 +353,9 @@ ide.tree.horizontal.default.autoscrolling=false
 
 ## 무료 유틸리티
 - KakaoTalk (app store)
-- MS Office 365
 - Notion (web)
 - App cleaner (web)
+- Monitor Control (web)
 
 ## 유료 유틸리티
 - Magnet
