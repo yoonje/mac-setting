@@ -326,6 +326,7 @@ ide.tree.horizontal.default.autoscrolling=false
 - DTO Generator
 - POJO to JSON
 - Tab Shifter
+- MyBatisX or JPABuddy
 
 ## VS Code IDE 설정
 
