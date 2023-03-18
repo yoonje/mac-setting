@@ -327,7 +327,7 @@ ide.tree.horizontal.default.autoscrolling=false
 - POJO to JSON
 - Tab Shifter
 - MyBatisX or JPA Buddy(License)
-- Lombok / Mapstruct
+- Lombok
 
 ## VS Code IDE 설정
 
