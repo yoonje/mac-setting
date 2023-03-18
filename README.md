@@ -317,7 +317,7 @@ ide.tree.horizontal.default.autoscrolling=false
   - Application settings: /bin/zsh
   
 ##### 플러그인 설치
-- Git ToolBox
+- Git ToolBox(License)
 - CheckStyle-IDEA
 - .ignore
 - Indent Rainbow
@@ -326,7 +326,8 @@ ide.tree.horizontal.default.autoscrolling=false
 - DTO Generator
 - POJO to JSON
 - Tab Shifter
-- MyBatisX or JPA Buddy
+- MyBatisX or JPA Buddy(License)
+- Lombok / Mapstruct
 
 ## VS Code IDE 설정
 
