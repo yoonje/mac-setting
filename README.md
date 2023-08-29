@@ -289,6 +289,9 @@ ide.tree.horizontal.default.autoscrolling=false
 #### import 설정
 - `Preferences > Editor > Auto Import > Optimize Imports on the Fly`
 
+#### formatting 설정
+- `Actions on Save` > Reformat Code
+
 ##### 파일 인코딩
 - `Preference` -> `Editor` -> `Code Style` -> `File Encodings`
   - 프로퍼티 파일 `Default encoding for properties files`: UTF-8 설정 및 Transparent native-to-ascii convention 옵션 체크
