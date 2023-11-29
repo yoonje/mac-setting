@@ -45,7 +45,6 @@ Spaces를 최근  사용 내역에 따라 자동으로 재정렬 체크박스를
 - Touch Bar 입력 제안 X
 - Fn 키 고정
 - Caps Lock 키로 ABC 입력 소스 전환 해제
-- 스크린 샷 단축키 `스크린샷 및 기록 옵션` 제외 모두 해제
 
 ##### 캘린더
 구글 계정 선택 -> 구글 캘린더와 연동
@@ -64,13 +63,6 @@ Spaces를 최근  사용 내역에 따라 자동으로 재정렬 체크박스를
 
 ##### 설정
 `환경 설정` -> 로그인 시 론칭
-
-##  monosnap
-
-##### 설정
-- `Hotkeys`
-  - Capture area : cmd shift 4
-  - Capture fullscrenn : cmd shift 3
 
 ## Chrome
 
