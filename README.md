@@ -290,7 +290,7 @@ ide.tree.horizontal.default.autoscrolling=false
 - `Preferences > Editor > Auto Import > Optimize Imports on the Fly`
 
 #### formatting 설정
-- `Actions on Save` > Reformat Code
+- `Actions on Save` > Reformat code, Optimize imports, Rearrange code 
 
 ##### 파일 인코딩
 - `Preference` -> `Editor` -> `Code Style` -> `File Encodings`
