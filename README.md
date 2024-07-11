@@ -5,10 +5,6 @@ Stable 버전의 최신 OS로 업데이트
 
 ## 맥 시스템 설정
 
-##### 디스플레이 설정
-- 핫코너 -> 오른쪽 상단 -> 화면
-- 2560 1440
-
 ##### 배터리
 퍼센트 보기
 
@@ -167,12 +163,24 @@ $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/t
 ```
 
 ##### 플러그인 및 유틸 설치
-```sh
-$ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-```
-```sh
-$ brew install thefuck
-```
+- 플러그인 설치
+  - 설치
+  ```sh
+  $ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+  $ git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+  $ git clone https://github.com/zsh-users/zsh-history-substring-search ~/.oh-my-zsh/custom/plugins/zsh-history-substring-search
+  $ git clone https://github.com/zsh-users/zsh-completions ~/.oh-my-zsh/custom/plugins/zsh-completions
+  ```
+- 보안 옵션
+  - .zshrc 열기
+  ```sh
+  $ vi ~/.zshrc
+  ```
+  - 적용
+  ```
+  ZSH_DISABLE_COMPFIX="true" // source $ZSH/oh-my-zsh.sh 앞에서 
+  source $ZSH/oh-my-zsh.sh 
+  ```
 
 ##### 플러그인 및 유틸 설정
 - .zshrc 열기
@@ -187,9 +195,8 @@ plugins=(
   git
   zsh-syntax-highlighting
   zsh-autosuggestions
+  ....
 )
-
-eval $(thefuck --alias)
 ```
 
 ##### 추가 작업
@@ -236,25 +243,6 @@ eval $(thefuck --alias)
   echo -n "%{%f%}"
   CURRENT_BG=''
   }
-  ```
-- Syntax Hightlight 적용
-  - 설치
-  ```sh
-  $ brew install zsh-syntax-highlighting
-  ```
-  - 적용
-  ```sh
-  $ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-  ```
-- 보안 옵션
-  - .zshrc 열기
-  ```sh
-  $ vi ~/.zshrc
-  ```
-  - 적용
-  ```
-  ZSH_DISABLE_COMPFIX="true" // source $ZSH/oh-my-zsh.sh 앞에서 
-  source $ZSH/oh-my-zsh.sh 
   ```
   
 ##### 샘플 .zshrc에서 확인해야할 부분
