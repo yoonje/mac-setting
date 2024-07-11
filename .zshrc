@@ -59,6 +59,8 @@ plugins=(
 git
 zsh-syntax-highlighting
 zsh-autosuggestions
+zsh-completions
+zsh-history-substring-search
 docker
 iterm2
 sudo
@@ -94,7 +96,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 eval $(/opt/homebrew/bin/brew shellenv)
-eval $(thefuck --alias)
 
 prompt_context() {
   if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
