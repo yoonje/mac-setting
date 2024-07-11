@@ -23,8 +23,6 @@ Spaces를 최근  사용 내역에 따라 자동으로 재정렬 체크박스를
 
 ##### Finder
 - `환경설정` -> `사이드바` -> User 이름 체크
-- 보기 -> 사이드바 보기
-- 보기 -> 도구막대 보기
 - 보기 -> 계층
 
 ##### Dock
@@ -247,7 +245,7 @@ plugins=(
   
 ##### 샘플 .zshrc에서 확인해야할 부분
 ```sh
-export ZSH="/Users/yoonje/.oh-my-zsh" // 계정 정보 확인 필요
+export ZSH="/Users/user/.oh-my-zsh" // 계정 정보 확인 필요
 ```
 
 ## 기타
