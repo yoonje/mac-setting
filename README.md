@@ -319,22 +319,7 @@ ide.tree.horizontal.default.autoscrolling=false
 - MyBatisX or JPA Buddy(License)
 - Lombok
 
-## VS Code IDE 설정
-
-##### 쉘 설정
-- `F1` -> `Termianl: Select Default Shell`
-  - /bin/zsh
-
-##### 폰트 크기 설정
-- `Preference` -> `Setting`
-  - Font Size : 13
-
-##### 플러그인 설치
-- git history
-- IntelliJ IDEA Keybindings
-
 ## 개발환경
-- VS CODE
 - Postman
 - Chrome
 - Jetbrain Toolbox / IntelliJ
