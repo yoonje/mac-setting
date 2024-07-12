@@ -59,8 +59,6 @@ plugins=(
 git
 zsh-syntax-highlighting
 zsh-autosuggestions
-zsh-completions
-zsh-history-substring-search
 docker
 iterm2
 sudo
