@@ -332,12 +332,8 @@ ide.tree.horizontal.default.autoscrolling=false
   - Font Size : 13
 
 ##### 플러그인 설치
-- git lens
 - git history
-- eslint
-- prettier
 - IntelliJ IDEA Keybindings
-- Markdown Preview Enhanced
 
 ## 개발환경
 - VS CODE
