@@ -297,7 +297,7 @@ ide.tree.horizontal.default.autoscrolling=false
   - Line spacing : 1.2
 
 ##### Auto import Optimize 설정
-- Preferences -> Editor -> Auto import -> Optimize imports on the fly와 dd unambiguous imports on the fly 옵션 체크
+- Preferences -> Editor -> Auto import -> Optimize imports on the fly와 Add unambiguous imports on the fly 옵션 체크
 
 ##### 파일에 라이선스 / Author 설정
 - Preferences -> Editor -> File and Code Templates -> Files
