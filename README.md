@@ -324,6 +324,7 @@ ide.tree.horizontal.default.autoscrolling=false
 - Chrome
 - Jetbrain Toolbox / IntelliJ
 - visualvm
+- DBeaver
 
 ## 무료 유틸리티
 - KakaoTalk (app store)
