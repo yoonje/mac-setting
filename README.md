@@ -323,6 +323,7 @@ ide.tree.horizontal.default.autoscrolling=false
 - Postman
 - Chrome
 - Jetbrain Toolbox / IntelliJ
+- visualvm
 
 ## 무료 유틸리티
 - KakaoTalk (app store)
