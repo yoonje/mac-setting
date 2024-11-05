@@ -336,4 +336,3 @@ ide.tree.horizontal.default.autoscrolling=false
 ## 유료 유틸리티
 - Magnet
 - Unclutter
-- Mate translater
