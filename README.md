@@ -318,6 +318,7 @@ ide.tree.horizontal.default.autoscrolling=false
 - Jetbrain Toolbox / IntelliJ
 - visualvm
 - DBeaver or MySQL workbench
+- vscode
 
 ## 무료 유틸리티
 - KakaoTalk (app store)
