@@ -323,7 +323,6 @@ ide.tree.horizontal.default.autoscrolling=false
 - KakaoTalk (app store)
 - Notion (web)
 - App cleaner (web)
-- Monitor Control (web)
 - Albtab (web)
 
 ## 유료 유틸리티
