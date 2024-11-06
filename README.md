@@ -324,7 +324,6 @@ ide.tree.horizontal.default.autoscrolling=false
 - Chrome
 - Jetbrain Toolbox / IntelliJ
 - visualvm
-- jemeter
 - DBeaver or MySQL workbench
 
 ## 무료 유틸리티
