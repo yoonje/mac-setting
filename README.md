@@ -270,8 +270,7 @@ ide.tree.horizontal.default.autoscrolling=false
 - `Actions on Save` > Reformat code, Optimize imports, Rearrange code 
 
 ##### 파일 인코딩
-- `Preference` -> `Editor` -> `Code Style` -> `File Encodings`
-  - 프로퍼티 파일 `Default encoding for properties files`: UTF-8 설정 및 Transparent native-to-ascii convention 옵션 체크
+- `Preference` -> `Editor` -> `Code Style` -> `File Encodings` -> `Default encoding for properties files`: UTF-8 설정 및 Transparent native-to-ascii convention 옵션 체크
 
 ##### 어노테이션 프로세서
 - Preference -> Build, Execution, Deloyment -> Compiler → Enable Annotation Processing 옵션 체크 
@@ -280,7 +279,7 @@ ide.tree.horizontal.default.autoscrolling=false
 - Preferences > Editor > File and Code Templates > Files
 
 ##### 폰트
-- `Preference` -> `Apperance & Behavior` -> `Apperance`
+- `Preference` -> `Appearance & Behavior` -> `Appearance`
   - Theme : Dracula 
   - Use custom font : Ubuntu
   - Size : 13
@@ -317,7 +316,6 @@ ide.tree.horizontal.default.autoscrolling=false
 - Chrome
 - Jetbrain Toolbox / IntelliJ
 - visualvm
-- DBeaver or MySQL workbench
 - vscode
 
 ## 무료 유틸리티
