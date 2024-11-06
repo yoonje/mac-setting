@@ -78,13 +78,6 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 $ brew doctor
 ```
 
-## alt-tab-macos
-
-#### alt-tab-macos 설치
-```sh
-$ brew install --cask alt-tab
-```
-
 ##### 설정
 - 설정 -> 조작 -> 단축키 1
   - opt -> cmd
@@ -331,6 +324,7 @@ ide.tree.horizontal.default.autoscrolling=false
 - Notion (web)
 - App cleaner (web)
 - Monitor Control (web)
+- Albtab (web)
 
 ## 유료 유틸리티
 - Magnet
