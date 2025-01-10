@@ -130,7 +130,7 @@ https://github.com/naver/d2codingfont 다운로드 및 서체 설치
 ##### 폰트 설정
 - `Preference` -> `Profile` -> `Text` -> `Font`
   - Font : D2Coding
-  - Size : 12
+  - Size : 14
   
 ##### 창 크키 설정
 - `Preference` -> `Profile` -> `Window` -> `Setting for New Windows`
@@ -282,10 +282,10 @@ ide.tree.horizontal.default.autoscrolling=false
 - `Preference` -> `Appearance & Behavior` -> `Appearance`
   - Theme : Dracula 
   - Use custom font : Ubuntu
-  - Size : 13
+  - Size : 14
 - `Preference` -> `Editor` -> `Font`
   - Font : DejaVu Sans Mono
-  - Size : 13
+  - Size : 14
   - Line spacing : 1.2
 
 ##### Auto import Optimize 설정
