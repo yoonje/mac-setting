@@ -251,6 +251,11 @@ $ brew install tree
 $ brew install wget
 ```
 
+#### redis insight 설치
+```sh
+$ brew install redisinsight
+```
+
 ## IntelliJ 
 
 ##### 폰트 설치
@@ -314,7 +319,8 @@ ide.tree.horizontal.default.autoscrolling=false
 ## 개발환경
 - Postman
 - Chrome
-- Jetbrain Toolbox / IntelliJ
+- Jetbrain Toolbox / IntelliJ / DataGrip
+- redis insight
 - visualvm
 - vscode
 
