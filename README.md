@@ -285,8 +285,9 @@ ide.tree.horizontal.default.autoscrolling=false
 
 ##### 폰트
 - `Preference` -> `Appearance & Behavior` -> `Appearance`
-  - Theme : Dracula 
+  - Theme : Dracula
   - Use custom font : Ubuntu
+  - Zoom: 85%
   - Size : 14
 - `Preference` -> `Editor` -> `Font`
   - Font : DejaVu Sans Mono
